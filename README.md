@@ -1,5 +1,5 @@
 # sync_osc_MSTMs
-Code used for the article "Synchrony, oscillations, and phase relationships in collective neuronal activity: a highly-comparative overview of methods" by F. Baroni and B.D. Fulcher (2025).
+Code used for the article ["Synchrony, oscillations, and phase relationships in collective neuronal activity: a highly-comparative overview of methods" by F. Baroni and B.D. Fulcher, _PLoS Computational Biology_ (2025)](journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013597).
 Our original code is licensed under the [GNU GPL v3 license](http://www.gnu.org/licenses/gpl-3.0.html) (or later). This repository also includes packages developed by other authors in the `third-party` folder; these are provided with their original licenses, which can be found in their respective subdirectories. Please review and comply with those licenses before use.
 
 Most code is in Matlab. Some functions use `tightPosition` for creating figures and hence require a modern version of Matlab (R2022b or newer), but most of the code will run with an older version.
